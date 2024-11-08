@@ -510,6 +510,7 @@ Kanun kapsamında muhafaza edilen verileriniz; ilgili mevzuatlar kapsamında bel
 Şirketimiz tarafından Kanunu’n 12. maddesine uygun olarak, kamera ile izleme faaliyeti sonucunda elde edilen kişisel verilerin güvenliğinin sağlanması için gerekli teknik ve idari tedbirler alınmaktadır.
 
 Kişinin mahremiyetine müdahale sonucu doğurabilecek alanlarda izleme söz konusu olmamaktadır. Güvenlik kamerası kayıtlarına yalnızca sınırlı sayıda Şirket çalışanımız ve ihtiyaç duyulması halinde yetkili kişiler erişebilmektedir. Kayıtlara erişimi olan söz konusu kişiler imzaladıkları gizlilik taahhütnamesi ile eriştiği verilerin gizliliğini koruyacağını beyan etmektedir.
+
 ---
 
 ### ENERJİMATİK BİNA, TESİS GİRİŞLERİNDE VE İÇERİSİNDE YÜRÜTÜLEN GİRİŞ ÇIKIŞLARIN TAKİBİ
